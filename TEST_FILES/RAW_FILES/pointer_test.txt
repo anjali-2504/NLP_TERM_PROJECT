@@ -1,0 +1,328 @@
+SalesVolume 2 6 0 0
+SalesVolume 1 8 0 0
+SalesVolume 10 17 3 5
+Profit 1 21 0 0
+SalesVolume 25 32 17 17 | QuarterlyResults 25 32 17 17
+SalesVolume 10 29 0 0
+SalesVolume 0 2 19 19
+SalesVolume 1 8 0 0
+SalesVolume 6 14 0 0 | Profit 17 23 0 0
+Profit 1 12 0 0
+Profit 2 8 10 10
+QuarterlyResults 17 25 0 0 | SalesVolume 28 33 0 0
+QuarterlyResults 1 4 0 0
+QuarterlyResults 5 13 2 2
+SalesVolume 13 24 11 11
+Profit 6 16 4 4
+SalesVolume 0 5 12 12
+SalesVolume 20 30 0 0 | QuarterlyResults 20 30 0 0
+SalesVolume 2 23 0 0
+SalesVolume 0 10 12 12
+SalesVolume 10 18 7 7 | QuarterlyResults 10 18 7 7
+QuarterlyResults 28 31 3 3
+SalesVolume 32 50 28 28
+QuarterlyResults 11 13 15 15
+SalesVolume 5 8 27 27
+Profit 21 28 0 0 | QuarterlyResults 21 28 0 0
+Profit 24 37 0 0
+Profit 12 17 0 0
+SalesVolume 2 15 0 0
+SalesVolume 1 9 0 0 | Turnover 12 23 0 0
+SalesVolume 1 8 10 17
+Profit 6 11 3 5
+SalesVolume 4 24 0 0 | QuarterlyResults 4 24 0 0 | SalesVolume 28 33 27 27
+QuarterlyResults 24 30 0 0 | Profit 24 30 0 0
+SalesVolume 12 21 0 0 | QuarterlyResults 12 21 0 0 | Profit 24 33 0 0
+SalesVolume 6 7 0 0
+SalesVolume 4 20 0 0 | Profit 4 20 0 0
+SalesVolume 0 20 23 23 | QuarterlyResults 0 20 23 23
+Profit 8 10 4 4
+MergerAcquisition 3 3 25 26
+MergerAcquisition 9 19 24 26
+SalesVolume 17 29 0 0
+SalesVolume 11 13 15 15 | QuarterlyResults 11 13 15 15 | Turnover 18 26 15 15
+SalesVolume 6 17 0 0
+Dividend 4 13 0 0
+Profit 1 21 0 0
+Profit 1 9 0 0
+Turnover 1 12 0 0 | Profit 15 27 0 0
+ShareRepurchase 3 13 0 0
+Profit 1 10 0 0 | Turnover 12 21 0 0
+SalesVolume 8 10 0 0
+MergerAcquisition 8 18 0 0
+MergerAcquisition 17 31 16 16 | MergerAcquisition 37 40 33 35
+Profit 15 27 6 6
+MergerAcquisition 1 3 0 0
+MergerAcquisition 16 24 8 8
+MergerAcquisition 0 1 19 19
+SalesVolume 4 8 1 2 | Profit 11 22 1 2
+MergerAcquisition 11 21 0 0
+SalesVolume 26 41 0 0 | Profit 45 51 0 0
+SalesVolume 1 7 10 10
+Turnover 23 25 17 17
+Turnover 7 14 16 16
+QuarterlyResults 4 7 0 0 | QuarterlyResults 11 16 0 0
+Profit 3 22 0 0 | Turnover 34 36 0 0
+Turnover 1 11 0 0 | Profit 13 22 0 0
+MergerAcquisition 11 11 0 1
+MergerAcquisition 8 8 6 7
+MergerAcquisition 2 3 0 0
+Profit 0 16 25 26
+MergerAcquisition 18 19 16 17 | MergerAcquisition 36 37 0 0
+Profit 4 30 0 0
+SalesVolume 8 22 6 6 | SalesVolume 26 47 6 6
+SalesVolume 25 47 10 11
+MergerAcquisition 8 10 5 6
+SalesVolume 7 8 10 10 | SalesVolume 14 19 0 0
+SalesVolume 13 20 0 0
+SalesVolume 13 14 0 0
+SalesVolume 2 23 0 0 | QuarterlyResults 2 23 0 0
+SalesVolume 0 10 12 12
+SalesVolume 10 18 7 7 | QuarterlyResults 10 18 7 7
+SalesVolume 1 5 0 0
+SalesVolume 22 30 0 0
+Profit 1 7 0 0 | Profit 10 16 0 0
+Turnover 17 23 0 0
+SalesVolume 10 13 0 0
+SalesVolume 3 18 2 2
+Dividend 5 8 0 0
+Dividend 11 19 0 0
+ShareRepurchase 11 26 0 0 | Dividend 11 26 0 0
+BuyRating 6 7 11 13
+BuyRating 25 28 0 0
+BuyRating 6 17 0 0
+QuarterlyResults 17 21 5 6
+BuyRating 3 11 0 0
+BuyRating 2 5 0 0
+SalesVolume 3 4 0 0
+SalesVolume 20 24 0 0 | QuarterlyResults 20 24 0 0
+Profit 14 26 2 2
+SalesVolume 19 22 0 2
+SalesVolume 28 31 0 0
+SalesVolume 3 18 0 0 | QuarterlyResults 3 18 0 0
+Turnover 18 24 17 17
+SalesVolume 7 12 18 18
+SalesVolume 5 18 0 0
+SalesVolume 20 41 0 0
+SalesVolume 2 12 0 0
+MergerAcquisition 2 3 1 1 | MergerAcquisition 6 8 0 0
+MergerAcquisition 2 4 1 1 | MergerAcquisition 14 20 0 0
+MergerAcquisition 15 19 0 0
+Profit 19 35 0 0
+Turnover 10 13 8 9 | Profit 15 27 8 9
+SalesVolume 14 25 0 0
+SalesVolume 14 29 0 0
+Turnover 1 4 0 0
+Turnover 15 27 0 0
+Profit 1 24 0 0
+SalesVolume 20 26 0 0
+Turnover 1 4 0 0
+Turnover 15 27 0 0
+Profit 1 24 0 0
+SalesVolume 1 8 0 0
+Profit 1 12 0 0
+SalesVolume 28 33 6 8
+SalesVolume 11 21 0 0 | QuarterlyResults 11 21 0 0
+SalesVolume 1 9 0 0
+SalesVolume 1 8 0 0
+SalesVolume 1 9 0 0
+SalesVolume 1 11 0 0
+Profit 1 9 0 0
+SalesVolume 16 20 6 6
+SalesVolume 1 7 9 18 | SalesVolume 21 30 0 0
+SalesVolume 13 24 2 2
+BuyRating 21 26 0 0 | SalesVolume 5 14 0 0
+SalesVolume 5 13 2 2
+MergerAcquisition 8 11 13 13
+BuyRating 22 25 0 0
+BuyRating 1 2 0 0
+SalesVolume 3 9 0 0
+BuyRating 5 5 6 6 | BuyRating 7 9 0 0
+BuyRating 14 22 4 5
+QuarterlyResults 9 11 13 14 | Profit 17 24 13 14
+Profit 8 35 0 0 | QuarterlyResults 8 35 0 0
+Turnover 2 10 0 0 | QuarterlyResults 2 10 0 0
+Profit 1 31 0 0
+SalesVolume 28 35 14 15
+SalesVolume 1 25 0 0
+Dividend 3 7 0 1
+ShareRepurchase 16 21 0 0
+Dividend 25 31 20 21
+MergerAcquisition 16 21 12 15
+Debt 13 19 10 11
+Dividend 3 5 7 8 | Dividend 9 12 0 0
+Debt 3 11 0 1
+Dividend 10 17 30 31
+Dividend 17 22 3 4
+Dividend 2 17 0 1
+Dividend 2 8 12 13
+Dividend 17 24 3 4
+Dividend 2 8 12 13
+Profit 20 34 0 0
+Turnover 2 15 0 0
+Profit 1 9 0 0
+Profit 6 11 0 0
+Profit 0 7 17 17
+Dividend 1 9 0 0
+Profit 1 15 0 0
+Profit 5 30 4 4
+Profit 1 28 0 0
+Profit 0 3 6 6
+Turnover 7 18 0 0 | Profit 21 29 0 0 | Profit 31 37 0 0
+BuyRating 5 10 12 12 | Profit 14 24 12 12
+BuyRating 4 9 11 11 | Profit 13 22 11 11
+MergerAcquisition 10 12 0 0
+Profit 19 35 0 0
+Turnover 2 15 0 0
+Profit 1 9 0 0
+Profit 6 11 0 0
+Profit 0 7 16 16
+Dividend 1 9 0 0
+Profit 14 25 0 0
+Turnover 2 15 0 0
+Profit 1 9 0 0
+Profit 6 11 0 0
+Profit 0 7 17 17
+Dividend 1 9 0 0
+BuyRating 25 30 1 1
+SalesVolume 2 7 9 9
+BuyRating 3 8 0 0
+BuyRating 33 37 0 0 | TargetPrice 44 48 0 0
+BuyRating 6 7 0 0
+BuyRating 1 7 0 0
+BuyRating 2 3 5 6
+Dividend 7 10 12 12
+Dividend 7 11 0 0
+Dividend 8 11 15 16
+ShareRepurchase 9 13 0 0
+Profit 1 2 7 8 | Profit 9 17 0 0 | Profit 21 30 5 5
+Turnover 1 13 0 0 | QuarterlyResults 1 13 0 0 | Turnover 15 26 0 0
+Profit 3 21 0 0
+Dividend 25 28 14 15
+Dividend 16 19 0 0
+Dividend 7 9 6 6
+Debt 14 16 3 4
+Turnover 6 19 0 0 | QuarterlyResults 6 19 0 0
+Turnover 3 9 1 1 | Turnover 22 26 1 1
+Turnover 3 12 0 0 | QuarterlyResults 3 12 0 0
+Profit 1 16 0 0 | Profit 24 40 0 0
+Dividend 22 27 17 18
+ShareRepurchase 22 30 21 21
+Debt 10 17 0 0
+Turnover 1 3 5 5 | Turnover 8 38 0 0
+Profit 2 4 0 0
+Turnover 1 20 0 0 | QuarterlyResults 23 27 0 0
+Profit 24 31 3 3
+Dividend 2 9 0 0
+QuarterlyResults 3 6 0 0
+Turnover 1 15 0 0
+Turnover 25 38 0 0
+ShareRepurchase 1 5 0 0
+Profit 15 17 0 0
+Dividend 14 16 0 0
+Dividend 21 27 0 0
+MergerAcquisition 1 1 0 0
+MergerAcquisition 1 5 7 9
+MergerAcquisition 14 20 9 9
+MergerAcquisition 27 28 11 11
+MergerAcquisition 32 40 21 21
+MergerAcquisition 3 18 1 1 | MergerAcquisition 21 22 0 0
+MergerAcquisition 28 30 20 20 | MergerAcquisition 34 35 0 0
+Profit 1 29 0 0
+Profit 1 11 0 0
+Profit 2 5 0 0 | QuarterlyResults 2 5 0 0 | SalesVolume 8 13 0 0
+Debt 13 18 0 0 | Dividend 20 32 0 0
+BuyRating 8 16 0 1
+BuyRating 13 17 0 0
+BuyRating 12 22 0 0
+BuyRating 10 19 0 1
+BuyRating 17 22 6 7
+SalesVolume 1 4 0 0
+Profit 8 27 0 0
+Turnover 9 24 8 8
+SalesVolume 14 24 0 0 | QuarterlyResults 14 24 0 0
+Turnover 18 24 0 0
+Turnover 1 1 3 3 | Turnover 8 19 0 0 | QuarterlyResults 8 19 3 3
+SalesVolume 4 10 0 0
+Debt 9 16 1 1
+Turnover 26 28 0 0 | Profit 30 32 0 0
+Profit 1 7 0 0
+Turnover 1 22 0 0 | Profit 25 34 0 0
+Profit 1 8 0 0
+Dividend 7 9 11 12 | Dividend 22 31 4 4
+Dividend 1 15 0 0
+MergerAcquisition 11 19 1 1 | MergerAcquisition 23 24 0 0
+Profit 2 18 0 1
+Turnover 2 19 0 1 | Profit 21 23 0 1
+Dividend 25 29 4 5
+Turnover 11 17 10 10 | Profit 19 21 10 10
+Profit 3 16 0 0
+Turnover 26 31 6 6
+Debt 14 17 12 13 | MergerAcquisition 28 29 31 31
+Debt 27 37 11 12
+Dividend 19 21 22 23 | Dividend 25 25 0 0
+Dividend 2 8 0 1
+MergerAcquisition 1 3 0 0
+MergerAcquisition 13 24 12 12
+Profit 20 25 12 13
+Turnover 16 24 0 0
+Turnover 1 16 0 0 | Profit 20 32 0 0
+SalesVolume 3 15 0 0
+SalesVolume 1 4 0 0
+ShareRepurchase 9 14 0 0 | Dividend 24 32 0 0
+Debt 11 15 0 0
+Turnover 3 16 0 0
+Profit 1 16 0 0
+Profit 2 11 0 0
+Turnover 11 22 10 10
+BuyRating 0 4 16 16 | TargetPrice 7 10 16 16
+TargetPrice 23 28 0 0
+BuyRating 15 19 0 1 | TargetPrice 23 26 0 1
+MergerAcquisition 1 4 0 0
+MergerAcquisition 9 10 1 1 | MergerAcquisition 21 29 0 0
+MergerAcquisition 32 33 21 21
+Profit 11 17 0 0
+Turnover 1 19 0 0
+Profit 0 10 28 28
+MergerAcquisition 6 7 4 4
+Profit 1 8 0 0 | Dividend 10 26 0 0
+Profit 1 10 0 0
+Profit 19 28 0 0
+Profit 21 29 20 20
+MergerAcquisition 6 8 5 5 | MergerAcquisition 13 16 0 0
+MergerAcquisition 10 18 0 0
+Debt 1 5 17 17
+Turnover 1 12 0 0 | Profit 19 29 0 0
+Profit 3 8 0 0
+Dividend 1 11 0 0
+Dividend 4 12 3 3
+Profit 12 38 11 11
+Profit 2 31 0 0
+Turnover 1 9 0 0
+Dividend 1 10 0 0
+Turnover 4 8 0 0 | Profit 10 13 0 0
+Turnover 7 9 11 11
+Turnover 14 25 0 0
+MergerAcquisition 11 20 22 22
+Turnover 10 15 0 0
+Profit 8 13 0 0
+Profit 3 11 0 0
+Turnover 9 34 2 2 | Profit 37 44 2 2
+Turnover 1 6 0 0 | Profit 8 20 0 0
+Profit 1 30 0 0
+Profit 4 16 0 0
+Dividend 1 8 0 0 | Profit 10 17 0 0
+SalesVolume 5 6 0 0
+SalesVolume 30 32 0 0
+Turnover 2 10 0 0
+Turnover 6 9 5 5
+QuarterlyResults 2 5 9 9
+ShareRepurchase 18 21 3 3
+BuyRating 11 13 15 15 | BuyRating 18 25 0 0
+Turnover 1 15 0 0
+Turnover 5 8 0 0
+Turnover 18 22 0 0
+Turnover 13 17 0 0 | Turnover 1 5 0 0
+Turnover 16 27 15 15
+Turnover 19 31 0 0
+Turnover 4 13 0 0
