@@ -1,0 +1,330 @@
+8 13 Turnover 0 1
+2 10 Turnover 0 1
+6 11 Dividend 2 5
+2 5 Dividend 14 17
+18 23 MergerAcquisition 2 5 | 34 43 MergerAcquisition 0 1
+24 33 MergerAcquisition 12 18
+15 22 Profit 2 5
+6 41 Profit 0 1
+5 24 Profit 0 1
+3 14 SalesVolume 0 1 | 3 14 QuarterlyResults 0 1
+8 23 SalesVolume 0 1
+6 29 SalesVolume 2 5
+11 18 Turnover 0 1
+10 23 Dividend 0 1
+5 5 BuyRating 6 9 | 10 15 BuyRating 0 1
+35 40 MergerAcquisition 42 43
+7 14 Profit 0 1
+23 28 Dividend 2 5
+19 28 BuyRating 3 6
+16 23 Dividend 2 5
+8 15 Dividend 2 5
+8 13 TargetPrice 15 18
+9 9 BuyRating 10 10 | 11 16 BuyRating 0 1
+14 16 MergerAcquisition 8 11
+22 27 QuarterlyResults 2 5
+9 14 Turnover 3 6 | 16 39 SalesVolume 3 6
+6 13 SalesVolume 0 1
+6 29 Turnover 2 5 | 6 29 QuarterlyResults 2 5
+7 14 Turnover 0 1
+8 35 Profit 0 1
+21 39 MergerAcquisition 2 5
+6 15 Turnover 2 4 | 17 35 Profit 2 4
+14 16 Debt 0 1 | 18 20 ShareRepurchase 0 1
+14 43 MergerAcquisition 10 13
+24 28 ShareRepurchase 2 5 | 34 37 Debt 2 5
+19 23 ShareRepurchase 0 1 | 25 26 Debt 0 1
+26 30 ShareRepurchase 0 1 | 37 58 Debt 0 1
+5 13 Dividend 21 24
+16 17 MergerAcquisition 2 3 | 22 38 MergerAcquisition 0 1
+17 38 MergerAcquisition 13 16
+9 12 Turnover 2 6
+2 30 Profit 0 1
+15 21 MergerAcquisition 2 5
+16 26 Turnover 12 15
+12 14 MergerAcquisition 4 4 | 27 43 MergerAcquisition 0 1
+9 11 MergerAcquisition 5 8 | 34 39 MergerAcquisition 0 1
+14 14 Turnover 15 18 | 19 37 Turnover 0 1 | 39 55 Profit 15 18
+17 21 BuyRating 23 26
+21 22 MergerAcquisition 9 13
+18 23 MergerAcquisition 2 5
+16 22 Turnover 4 7
+24 34 MergerAcquisition 11 13
+13 19 MergerAcquisition 20 23
+35 39 BuyRating 0 1
+5 13 BuyRating 0 1
+5 9 BuyRating 0 1 | 11 13 TargetPrice 0 1
+25 32 Profit 2 4
+41 45 BuyRating 12 14 | 47 50 TargetPrice 12 14
+24 28 BuyRating 3 4 | 31 35 TargetPrice 3 4
+12 22 Profit 2 5
+24 30 Turnover 7 10
+2 22 Turnover 0 1 | 36 53 Profit 0 1
+6 42 Profit 2 5
+4 50 Profit 0 1
+19 29 MergerAcquisition 7 13 | 33 38 Turnover 7 10 | 40 49 SalesVolume 7 10
+26 31 Turnover 2 5
+14 19 Turnover 23 26
+2 18 Turnover 0 1
+6 21 Dividend 2 5
+2 23 Profit 0 1
+12 14 Profit 2 5
+17 25 Profit 0 1
+2 4 Profit 6 8
+26 30 BuyRating 2 5
+32 37 BuyRating 0 1 | 28 28 BuyRating 2 5
+2 7 QuarterlyResults 0 1
+15 24 MergerAcquisition 2 3
+32 36 TargetPrice 2 3
+2 4 Debt 0 1
+23 28 TargetPrice 2 5
+30 38 Profit 0 1
+2 4 Profit 6 8
+22 26 BuyRating 0 1
+28 37 BuyRating 2 5
+2 5 QuarterlyResults 0 1
+15 24 MergerAcquisition 2 3
+32 36 TargetPrice 2 3
+6 14 Profit 0 1
+25 40 Profit 10 13
+59 59 BuyRating 28 29
+12 25 SalesVolume 0 1
+13 14 Turnover 16 19
+15 18 SalesVolume 2 5
+3 23 Turnover 0 1 | 3 23 QuarterlyResults 0 1
+2 13 Turnover 0 1 | 2 13 QuarterlyResults 0 1
+2 30 Turnover 0 1 | 2 30 QuarterlyResults 0 1
+7 9 SalesVolume 0 1 | 19 23 SalesVolume 0 1 | 19 23 QuarterlyResults 0 1
+18 25 MergerAcquisition 27 29
+4 10 BuyRating 17 20 | 12 15 TargetPrice 17 20
+13 19 BuyRating 0 1 | 8 8 BuyRating 9 12
+16 17 MergerAcquisition 2 5 | 22 31 MergerAcquisition 0 1
+22 24 BuyRating 2 5
+18 26 Profit 2 4
+6 13 MergerAcquisition 2 5
+45 48 MergerAcquisition 2 5 | 33 40 MergerAcquisition 28 32
+6 10 MergerAcquisition 2 5
+13 25 MergerAcquisition 9 12
+12 21 MergerAcquisition 2 5
+15 20 Dividend 22 25
+16 23 Dividend 11 14 | 41 47 Dividend 11 14
+6 12 Turnover 2 5
+13 14 Turnover 2 5
+30 31 Turnover 8 11
+36 46 Turnover 2 5
+12 44 Turnover 0 1 | 47 77 Profit 0 1 | 6 7 Profit 8 11 | 6 7 Turnover 8 11
+23 28 Turnover 4 7
+22 27 Dividend 29 32
+6 11 Dividend 2 5
+9 11 MergerAcquisition 3 6
+6 8 Profit 2 5
+12 22 Profit 2 5
+17 27 Turnover 0 1
+2 40 Turnover 0 1 | 43 60 Profit 0 1
+7 42 Profit 2 5
+4 50 Profit 0 1
+19 29 MergerAcquisition 7 13 | 33 38 Turnover 7 10 | 41 50 SalesVolume 7 10
+6 8 Profit 2 5
+6 15 Profit 2 5
+8 17 Profit 2 5 | 8 17 SalesVolume 2 5
+2 27 Turnover 0 1
+16 19 MergerAcquisition 0 1
+23 24 MergerAcquisition 30 31
+27 27 MergerAcquisition 23 26
+21 43 Profit 2 5
+7 22 Profit 0 1
+2 14 Turnover 16 19 | 2 14 QuarterlyResults 16 19
+4 9 TargetPrice 0 1
+13 15 Profit 8 12
+6 15 BuyRating 17 18
+18 28 SalesVolume 2 4
+17 21 TargetPrice 2 3
+21 35 Profit 19 20
+23 32 Turnover 5 7
+16 29 Turnover 5 5
+6 19 ShareRepurchase 2 5
+12 24 ShareRepurchase 2 5 | 41 42 Turnover 2 5
+2 17 ShareRepurchase 40 43
+22 24 ShareRepurchase 16 19
+6 15 Turnover 2 5
+11 23 Debt 6 9
+19 21 BuyRating 13 16
+6 15 QuarterlyResults 2 5
+8 24 Turnover 0 1
+11 42 Turnover 0 1 | 6 6 Turnover 7 10
+11 38 Turnover 0 1 | 6 6 Turnover 7 10
+21 37 MergerAcquisition 43 46
+10 15 MergerAcquisition 5 9
+18 21 Turnover 17 17
+21 33 TargetPrice 0 1
+4 16 TargetPrice 0 1
+9 15 Profit 17 20
+27 33 MergerAcquisition 2 5
+13 25 Turnover 2 5
+16 34 Profit 2 5
+54 59 ShareRepurchase 13 16
+6 10 Dividend 12 15
+9 15 Debt 4 7 | 18 27 Dividend 4 7
+35 42 MergerAcquisition 44 46
+44 48 BuyRating 10 11
+19 25 MergerAcquisition 6 7 | 66 73 BuyRating 45 48
+18 22 Turnover 4 6
+21 27 BuyRating 0 1 | 30 35 TargetPrice 0 1
+6 15 Dividend 0 1
+6 20 Dividend 28 31
+42 45 Debt 28 31
+23 35 Dividend 2 5
+6 10 Turnover 2 5
+6 19 Turnover 2 5 | 6 19 QuarterlyResults 2 5
+10 27 Turnover 0 1 | 10 27 QuarterlyResults 0 1 | 30 37 Turnover 0 1
+4 14 Turnover 0 1 | 19 25 Turnover 0 1
+11 19 Turnover 0 1 | 35 44 Turnover 30 33
+2 33 Profit 0 1
+2 34 Profit 0 1
+8 25 Profit 0 1
+6 10 MergerAcquisition 16 17
+23 24 MergerAcquisition 26 27
+30 32 MergerAcquisition 34 35
+12 36 MergerAcquisition 0 1
+9 13 Profit 2 5
+21 32 Profit 2 5
+21 68 Profit 0 1
+25 49 Profit 15 18
+15 19 Turnover 5 8 | 23 25 SalesVolume 5 8
+2 19 Turnover 0 1
+46 51 BuyRating 0 1
+8 11 BuyRating 13 16 | 20 27 BuyRating 0 1
+9 19 MergerAcquisition 4 7
+10 10 Profit 12 15 | 19 42 Profit 0 1
+2 20 Profit 0 1
+11 16 MergerAcquisition 8 10
+20 33 BuyRating 17 18
+5 18 TargetPrice 0 1
+5 14 TargetPrice 0 1
+7 18 TargetPrice 2 3
+10 12 TargetPrice 0 1 | 20 31 TargetPrice 0 1 | 36 41 BuyRating 0 1
+10 19 Dividend 21 24
+16 22 Dividend 7 10 | 30 38 Dividend 7 10
+6 10 MergerAcquisition 2 5 | 14 27 MergerAcquisition 0 1
+27 34 Debt 2 5 | 8 20 MergerAcquisition 22 23
+17 40 Turnover 8 11
+4 32 Turnover 0 1
+2 31 Profit 0 1
+8 25 Turnover 2 5
+2 18 Dividend 0 1
+8 21 MergerAcquisition 2 5 | 26 39 MergerAcquisition 0 1
+12 21 MergerAcquisition 8 11
+6 7 Debt 8 11 | 12 15 Debt 0 1
+6 14 Dividend 2 5
+4 23 MergerAcquisition 25 28
+27 30 BuyRating 0 1
+29 36 SalesVolume 5 7
+19 21 Profit 2 5
+3 9 MergerAcquisition 2 2
+35 38 Profit 8 9
+20 23 MergerAcquisition 25 26
+16 26 Profit 2 8
+6 19 Profit 0 1
+19 26 Profit 0 1
+14 30 SalesVolume 0 1
+31 41 Profit 0 1
+11 19 MergerAcquisition 0 1
+12 16 SalesVolume 0 1
+12 22 SalesVolume 0 1
+2 10 SalesVolume 0 1
+26 32 BuyRating 4 7
+41 45 BuyRating 9 11
+4 9 TargetPrice 0 1
+16 38 ShareRepurchase 3 3
+15 23 BuyRating 4 8
+6 9 Dividend 2 5 | 11 14 ShareRepurchase 2 5
+7 13 Dividend 2 5 | 15 21 ShareRepurchase 2 5
+2 22 Dividend 0 1
+5 22 ShareRepurchase 0 1
+6 32 Turnover 2 5 | 34 43 SalesVolume 2 5
+2 9 Turnover 0 1 | 14 23 SalesVolume 0 1
+10 15 Turnover 0 1
+2 12 Dividend 0 1
+9 29 Profit 0 1
+2 30 Profit 0 1
+11 22 Dividend 30 32 | 49 59 Turnover 2 5
+18 56 Turnover 0 1
+23 28 Turnover 0 1
+8 17 Dividend 18 20 | 21 22 Dividend 0 1
+14 42 Profit 10 13
+12 31 Profit 0 1
+5 19 Profit 0 1 | 22 60 Dividend 0 1
+34 46 Turnover 2 5
+40 74 Profit 5 8
+24 28 Turnover 2 5
+31 43 Dividend 48 51
+18 30 ShareRepurchase 0 1
+24 37 Profit 6 9
+2 43 Turnover 0 1
+7 26 Turnover 0 1
+2 29 Profit 0 1
+4 15 Profit 0 1
+2 25 Profit 0 1
+34 40 Dividend 27 30
+36 42 MergerAcquisition 24 27
+17 35 Turnover 6 6
+26 30 BuyRating 2 7
+25 34 Debt 2 5
+15 48 Debt 0 1
+42 45 Debt 25 28
+4 11 Debt 0 1
+26 30 Profit 7 10 | 32 34 Turnover 7 10
+31 60 Turnover 39 42 | 45 59 Turnover 0 1
+7 19 Profit 3 6
+4 26 Turnover 0 1
+2 18 Profit 0 1 | 20 35 Dividend 0 1
+19 27 Profit 36 36
+16 21 MergerAcquisition 2 5
+6 20 MergerAcquisition 2 5
+20 32 MergerAcquisition 16 19
+6 15 Debt 2 5
+6 22 Debt 0 1
+6 22 MergerAcquisition 2 5
+6 7 MergerAcquisition 2 5 | 13 18 MergerAcquisition 0 1
+21 26 SalesVolume 9 12
+18 23 QuarterlyResults 2 3
+16 17 MergerAcquisition 19 22 | 16 17 MergerAcquisition 19 22
+6 7 MergerAcquisition 2 5
+4 7 MergerAcquisition 8 10
+15 18 MergerAcquisition 2 5
+10 16 MergerAcquisition 2 5
+22 23 MergerAcquisition 8 9
+22 22 MergerAcquisition 0 1 | 28 30 MergerAcquisition 23 26
+13 23 Debt 10 12
+5 13 SalesVolume 2 4
+3 6 SalesVolume 0 1 | 8 16 Turnover 0 1
+16 17 MergerAcquisition 2 5
+37 49 Dividend 54 57
+18 30 ShareRepurchase 0 1 | 4 16 Dividend 0 1
+44 57 Profit 6 9
+2 29 Turnover 0 1 | 34 42 Turnover 0 1
+7 26 Turnover 0 1
+2 29 Profit 0 1
+4 15 Profit 0 1
+2 25 Profit 0 1
+2 20 Dividend 0 1
+6 15 Turnover 2 5
+4 12 Turnover 0 1
+48 55 SalesVolume 5 6
+4 53 SalesVolume 2 3
+16 29 SalesVolume 0 1
+2 32 SalesVolume 0 1
+9 13 SalesVolume 0 1
+4 20 SalesVolume 0 1
+2 4 Turnover 7 10
+16 18 Turnover 0 1
+29 30 Turnover 17 20
+6 29 Turnover 2 5 | 31 56 Profit 2 5
+7 13 Turnover 0 1
+2 22 Profit 44 47
+16 18 Turnover 20 23
+2 21 Dividend 0 1
+2 18 Profit 0 1
+2 22 Profit 0 1
+17 28 SalesVolume 0 1
+10 20 SalesVolume 27 28
